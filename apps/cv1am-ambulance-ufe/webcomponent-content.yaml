@@ -7,10 +7,11 @@ spec:
   element: cv1am-ambulance-wl-app
   attributes:
     - name: api-base
-      value: http://localhost:5001/api
+      value: /cv1am-api
     - name: ambulance-id
       value: bobulova
   displayRules:
     - allOf:
       - context-name: main-content
       - path: "^(\\.?/)?cv1am-ambulance-wl(/.*)?$"
+      
