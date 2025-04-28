@@ -9,6 +9,7 @@ labels:
 
 resources:
 - ../../../apps/cv1am-ambulance-ufe
+- ../../../apps/cv1am-ambulance-webapi
 - ../../../apps/mongo-express
 
 components:
