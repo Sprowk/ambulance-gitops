@@ -9,6 +9,11 @@ labels:
 
 resources:
 - ../../../apps/cv3am-ambulance-ufe
+- ../../../apps/cv3am-ambulance-webapi
+
+patches:
+- path: patches/ambulance-webapi.service.yaml
 
 components:
 - ../../../components/version-developers
+- https://github.com/Sprowk/ambulance-webapi//deployments/kustomize/components/mongodb
