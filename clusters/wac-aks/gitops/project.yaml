@@ -6,7 +6,7 @@ spec:
   title: "Zoznam čakajúcich cv3am"
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Alexander"
-  azureLink: "https://wac-hospital.westeurope.cloudapp.azure.com"
+  azureLink: "https://cv3am-ambulance-fggjgwe4dcg5gvfb.westeurope-01.azurewebsites.net"
   frontendRepoUrl: "https://github.com/Sprowk/ambulance-ufe"
   backendRepoUrl: "https://github.com/Sprowk/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/Sprowk/ambulance-gitops"
