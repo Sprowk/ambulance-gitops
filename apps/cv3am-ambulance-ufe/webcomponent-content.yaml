@@ -7,7 +7,7 @@ spec:
   element: cv3am-ambulance-wl-app
   attributes:
     - name: base-path
-      value: /cv3am-ambulance-wl/
+      value: cv3am-ambulance-wl/
     - name: api-base
       value: /cv3am-api
     - name: ambulance-id
