@@ -1,10 +1,10 @@
 apiVersion: wac-fiit.github.io/v1alpha1
 kind: Project
 metadata:
-  name: cv3am-ambulance-wl
+  name: cv3am-blood-bank
 spec:
-  title: "Zoznam čakajúcich cv3am"
-  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  title: "Krvna banka cv3am"
+  description: "System evidencie a spravy krvnych vakov"
   authors: "Alexander"
   azureLink: "https://cv3am-ambulance-fggjgwe4dcg5gvfb.westeurope-01.azurewebsites.net"
   frontendRepoUrl: "https://github.com/Sprowk/ambulance-ufe"

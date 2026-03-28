@@ -4,6 +4,6 @@ images:
 - name: sprowk/ambulance-ufe
   newName: sprowk/ambulance-ufe
   newTag: 1.1.0
-- name: sprowk/ambulance-wl-webapi
-  newName: sprowk/ambulance-wl-webapi
+- name: sprowk/ambulance-bb-webapi
+  newName: sprowk/ambulance-bb-webapi
   newTag: 1.1.2

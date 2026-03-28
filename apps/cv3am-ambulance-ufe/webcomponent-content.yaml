@@ -4,15 +4,15 @@ metadata:
   name: cv3am-ambulance-ufe-content
 spec:
   microFrontend: cv3am-ambulance-ufe
-  element: cv3am-ambulance-wl-app
+  element: cv3am-blood-bank-app
   attributes:
     - name: base-path
-      value: cv3am-ambulance-wl/
+      value: cv3am-blood-bank/
     - name: api-base
       value: /cv3am-api
-    - name: ambulance-id
-      value: bobulova
+    - name: blood-bank-id
+      value: centralna-banka
   displayRules:
     - allOf:
       - context-name: main-content
-      - path: "^(\\.?/)?cv3am-ambulance-wl(/.*)?$"
+      - path: "^(\\.?/)?cv3am-blood-bank(/.*)?$"

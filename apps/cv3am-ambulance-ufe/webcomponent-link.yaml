@@ -7,16 +7,16 @@ spec:
   element: polyfea-md-app
   attributes:
     - name: headline
-      value: Zoznam čakajúcich cv3am
+      value: Krvna banka cv3am
     - name: short-headline
-      value: Zoznam čakajúcich cv3am
+      value: Krvna banka cv3am
     - name: supporting-text
       value: |
-        Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
+        System evidencie a spravy krvnych vakov
     - name: material-icon
-      value: home_health
+      value: water_drop
     - name: href
-      value: ./cv3am-ambulance-wl
+      value: ./cv3am-blood-bank
   priority: 10
   displayRules:
     - anyOf:

@@ -6,7 +6,7 @@ labels:
       app.kubernetes.io/name: cv3am-apps
       app.kubernetes.io/instance: release
       app.kubernetes.io/version: "1.0.0"
-      wac-fiit.github.io/project: cv3am-ambulance-wl
+      wac-fiit.github.io/project: cv3am-blood-bank
 
 resources:
   - gitops

@@ -4,5 +4,5 @@ metadata:
   name: ambulance-webapi
   namespace: wac-hospital
 spec:
-  image: sprowk/ambulance-wl-webapi
+  image: sprowk/ambulance-bb-webapi
   interval: 1m0s
