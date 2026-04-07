@@ -6,4 +6,4 @@ images:
   newTag: main.20260328.2111 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
 - name: sprowk/ambulance-ufe
   newName: sprowk/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main.20260328.2111 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newTag: main.20260407.1245 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
