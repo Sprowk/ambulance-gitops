@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: sprowk/ambulance-ufe
   newName: sprowk/ambulance-ufe
-  newTag: 2.0.0
+  newTag: 2.0.1
 - name: sprowk/ambulance-bb-webapi
   newName: sprowk/ambulance-bb-webapi
-  newTag: 2.0.0
+  newTag: 2.0.1
